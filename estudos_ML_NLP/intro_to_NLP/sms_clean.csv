@@ -1,0 +1,75 @@
+label,text,clean_text
+ham,"Hey, are we still on for lunch tomorrow?",hey lunch tomorrow
+ham,I'll call you when I get home from work.,ill home work
+ham,Can you send me the notes from today's class?,send note today class
+ham,Happy birthday! Hope you have an amazing day.,happi birthday hope amaz day
+ham,"Running a bit late, be there in 10 minutes.",run bit late 10 minut
+ham,"Thanks for the ride yesterday, really appreciated it.",thank ride yesterday realli appreci
+ham,Don't forget to bring your laptop to the meeting.,dont forget bring laptop meet
+ham,What time does the movie start tonight?,time doe movi start tonight
+ham,"I finished the report, sending it over now.",finish report send
+ham,Can you pick up milk on your way home?,pick milk way home
+ham,See you at the gym later!,gym later
+ham,My flight got delayed by two hours.,flight got delay hour
+ham,"Let's catch up this weekend, it's been a while.",let catch weekend
+ham,"I left my charger at your place, can I grab it tomorrow?",left charger place grab tomorrow
+ham,Great job on the presentation today!,great job present today
+ham,Are you free for a call in the next hour?,free hour
+ham,I think I left my keys in the car.,think left key car
+ham,"The weather looks nice today, want to go for a walk?",weather look nice today want walk
+ham,"Sorry I missed your call, I was in a meeting.",sorri miss meet
+ham,Can we reschedule our appointment to next week?,reschedul appoint week
+ham,"Just landed, will text you when I'm home.",just land text im home
+ham,Do you want anything from the store?,want store
+ham,The wifi password is on the fridge.,wifi password fridg
+ham,"I'm almost done with the assignment, just need to review it.",im assign just need review
+ham,Let me know if you need help moving this weekend.,let know need help move weekend
+ham,"Thanks for lunch today, it was great catching up.",thank lunch today great catch
+ham,Can you send me your address again?,send address
+ham,I'll be working from home tomorrow.,ill work home tomorrow
+ham,The dentist appointment is at 3pm on Thursday.,dentist appoint 3pm thursday
+ham,"Loved the book you recommended, thank you!",love book recommend thank
+ham,Can we talk about the project tomorrow morning?,talk project tomorrow morn
+ham,"I'm heading out now, see you soon.",im head soon
+ham,Happy to help with the party planning.,happi help parti plan
+ham,The package should arrive by Friday.,packag arriv friday
+ham,Let's grab coffee before the meeting starts.,let grab coffe meet start
+ham,I updated the spreadsheet with the new numbers.,updat spreadsheet new number
+ham,Can you confirm the meeting time for tomorrow?,confirm meet time tomorrow
+ham,Thanks again for your help with the move.,thank help
+ham,Can we meet at the coffee shop after work?,meet coffe shop work
+ham,I'll bring the documents to the meeting tomorrow.,ill bring document meet tomorrow
+ham,Call me back when you get a chance.,chanc
+ham,Thanks for calling me back so quickly.,thank call quickli
+ham,See you at the meeting tomorrow morning.,meet tomorrow morn
+ham,I'll text you the details of the meeting later.,ill text detail meet later
+ham,Can you call me when you're free?,your free
+ham,Thanks so much for helping with the project.,thank help project
+ham,I'll be at the office by 9am tomorrow.,ill offic 9am tomorrow
+ham,Let's plan the trip for next month.,let plan trip month
+ham,Can you send the file before the meeting starts?,send file meet start
+ham,I appreciate you calling to check on me.,appreci call check
+spam,WINNER!! You have been selected to receive a $900 prize reward. Call now to claim!,winner select receiv 900 prize reward claim
+spam,URGENT! Your mobile number has won a 2000 pound prize GUARANTEED. Call 09061701461 now.,urgent mobil number won 2000 pound prize guarante 09061701461
+spam,Congratulations! You have been selected for a FREE iPhone. Click the link to claim your prize now.,congratul select free iphon click link claim prize
+spam,"FreeMsg: Claim your free 3 hours talk time now, txt CLAIM to 86888.",freemsg claim free 3 hour talk time txt claim 86888
+spam,You have won a guaranteed 1000 pound cash prize! Text WIN to 80086 to claim.,won guarante 1000 pound cash prize text win 80086 claim
+spam,"Get a FREE ringtone! Text TONE to 87131 now, only 1.50 per week.",free rington text tone 87131 150 week
+spam,"This is the 2nd attempt to contact you. You have won a 750 pound award, call 09066362231.",2nd attempt contact won 750 pound award 09066362231
+spam,"Limited time offer! Buy one get one FREE on all products, click here now.",limit time offer buy free product click
+spam,Your account has been suspended. Verify your details immediately to avoid closure.,account suspend verifi detail immedi avoid closur
+spam,"Congrats! You qualify for a 5000 dollar cash loan approved instantly, apply now.",congrat qualifi 5000 dollar cash loan approv instantli appli
+spam,"Free entry into our 1000 dollar weekly draw, text ENTER to 12345 to join.",free entri 1000 dollar weekli draw text enter 12345 join
+spam,Hot singles in your area want to chat! Click here to meet them now.,hot singl area want chat click meet
+spam,You have been chosen for a FREE cruise vacation! Call now to book your spot.,chosen free cruis vacat book spot
+spam,"Reply YES to confirm your free gift card worth 100 dollars, act now before it expires.",repli ye confirm free gift card worth 100 dollar act expir
+spam,Text WIN now to claim your free cash prize before it expires.,text win claim free cash prize expir
+spam,"URGENT! Claim your free prize now, call this number immediately.",urgent claim free prize number immedi
+spam,You have won! Click now to claim your free cash reward.,won click claim free cash reward
+spam,"FREE prize waiting for you, call now to claim before time runs out.",free prize wait claim time run
+spam,"Congratulations, you won a free cash prize, text CLAIM now.",congratul won free cash prize text claim
+spam,"URGENT! Call now to claim your free gift, offer ends today.",urgent claim free gift offer end today
+spam,"You have been selected to win a free prize, click now to claim.",select win free prize click claim
+spam,"Claim your free cash now! Urgent, call before it expires.",claim free cash urgent expir
+spam,"Text CLAIM now for your free prize, urgent offer.",text claim free prize urgent offer
+spam,Win free cash now! Call this number to claim your urgent prize.,win free cash number claim urgent prize

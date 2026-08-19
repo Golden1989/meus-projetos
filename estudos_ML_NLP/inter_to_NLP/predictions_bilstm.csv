@@ -1,0 +1,26 @@
+text,y_true,y_pred,y_proba
+you have been selected to win a free voucher claim now,1,1,0.99971515
+coffee tomorrow morning before work,0,0,0.00028126824
+claim your free cash prize now urgent reply needed,1,1,0.99964166
+win free cash now click link urgent claim required,1,1,0.99970776
+free cash prize waiting call now to claim urgent offer,1,1,0.9996811
+good luck with the appointment tomorrow,0,0,0.00043450165
+ill text you the address now,0,0,0.00013231889
+urgent reply now to claim your free cash prize,1,1,0.99960274
+urgent your mobile number has won a free prize call now,1,1,0.99959487
+ill call you when i get home from work,0,0,0.00012636537
+i forgot my notes at home can you scan them,0,0,0.00014343837
+urgent free cash award waiting reply claim now,1,1,0.9995846
+thanks so much talk to you tomorrow,0,0,0.00022447952
+can we reschedule our meeting to tomorrow,0,0,0.00015697892
+thanks for lunch lets do it again soon,0,0,0.00021758612
+congrats again the whole team is proud,0,0,0.00017159001
+can we do groceries together this weekend,0,0,0.00015857255
+can you check the notes and call me tonight,0,0,0.00017583928
+great news call me now im so excited,0,0,0.00018502928
+free tomorrow afternoon lets catch up,0,0,0.00015903302
+can you call me when you get a chance,0,0,0.0009866956
+thanks for the ride yesterday really appreciated,0,0,0.0002030888
+dont forget the meeting tomorrow morning,0,0,0.0013806421
+traffic is bad i might be late for work,0,0,0.00014378785
+free entry to win a cash prize click the link now,1,1,0.9996761

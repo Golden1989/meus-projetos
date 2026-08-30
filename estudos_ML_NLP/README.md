@@ -19,5 +19,6 @@ A ideia é sempre tentar resolver o exercício em branco antes de olhar o gabari
 | `intro_to_machine_learning/` | [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) | um único notebook cobrindo o curso |
 | `intro_to_NLP/` | [Intro to NLP](https://www.kaggle.com/learn-guide/intro-nlp) | 1. Cleaning Text Data · 2. Feature Extraction · 3. Modeling with XGBoost · 4. Evaluating NLP Models |
 | `inter_to_NLP/` | [Intermediate NLP](https://www.kaggle.com/learn-guide/intermediate-nlp) | 1. Word Embeddings · 2. Preparing Text Data · 3. Recurrent Neural Networks · 4. LSTM · 5. Bidirectional LSTM |
+| `embeddings_extra/` | prática extra (fora do Kaggle) | 1. Sintaxe de `nn.Embedding` · 2. Word2Vec CBOW do zero · 3. Classificador com embedding treinável · 4. Embeddings pré-treinados |
 
 Os módulos de `intro_to_NLP/` e `inter_to_NLP/` são interligados: cada um salva arquivos (`.csv`, `.npy`, `.json`) que o próximo carrega, formando um pipeline completo de classificação de SMS spam/ham.

@@ -1,0 +1,14 @@
+name: ml
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - pandas
+  - scikit-learn
+  - xgboost
+  - matplotlib
+  - ipykernel
+  - pip:
+      - torch
